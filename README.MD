@@ -49,7 +49,7 @@ python dorkpy.py
 ```
 
 ## Contribuição
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma [issue](https://github.com/Solvezera/DorkPY/issues) ou enviar um [pull request](https://github.com/Solvezera/DorkPY/pulls).
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma [issue](https://github.com/Solvezera/DorkyPY/issues) ou enviar um [pull request](https://github.com/Solvezera/DorkyPY/pulls).
 
 ## Licença
 Este projeto é licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
