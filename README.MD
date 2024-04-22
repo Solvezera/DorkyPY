@@ -7,6 +7,9 @@ DorkPY é uma ferramenta de pentest desenvolvida em Python para coletar informa�
 - Portas abertas
 - Arquivo robots.txt encontrado
 
+## TO DO
+- Fazer inclusão de toda parte de dorking, será feito mais pra frente.
+
 ## Instalação
 
 ### Clonar o repositório
